@@ -1,9 +1,12 @@
 ## P-nox
+
 💻 Passionate about **Software Development**, always learning and growing in this exciting, ever-evolving field.
+
+🌍 Based in <img src="https://img.icons8.com/fluency/48/greece-circular.png" width="18"/> **Athens, Greece**
 
 ---
 
-## My Tech Stack
+## 🚀 My Tech Stack
 
 <table>
   <thead align="center">
@@ -18,6 +21,18 @@
       <td>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Frameworks / Libraries</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/JavaFX-2C54A1?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
       </td>
     </tr>
     <tr>
@@ -28,11 +43,13 @@
       </td>
     </tr>
     <tr>
-      <td><b>Tools</b></td>
+      <td><b>Tools & Platforms</b></td>
       <td>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
       </td>
     </tr>
   </tbody>
@@ -46,3 +63,8 @@
 > In the meantime, feel free to explore my pinned repositories!
 
 ---
+
+## 📫 Contact
+
+- 📧 Email: [your-email@example.com]
+- 💼 LinkedIn: [your-linkedin-url]
