@@ -5,7 +5,6 @@
 
 
 I have a passion for coding and software development. I enjoy solving problems with code. I mainly engineer full stack solutions. My go to language is Java. For the web I tend to use Spring framework and React.
-Based in **Greece**
 
 
 ---
