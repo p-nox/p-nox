@@ -64,8 +64,3 @@ Based in **Greece**
 > In the meantime, feel free to explore my pinned repositories!
 
 ---
-
-## 📫 Contact
-
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-url]
