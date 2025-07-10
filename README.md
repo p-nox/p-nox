@@ -1,4 +1,7 @@
 ## P-nox
+<img src="https://github.com/user-attachments/assets/efaa24f5-3e88-49a0-9410-5636f40a9157" width="90"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=vagmcs&label=Visitors&color=000000&labelColor=000000&style=flat-square)
 
 💻 Passionate about **Software Development**, always learning and growing in this exciting, ever-evolving field.
 
@@ -51,6 +54,7 @@ Based in **Greece**
         <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
         <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
       </td>
     </tr>
   </tbody>
