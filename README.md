@@ -2,7 +2,7 @@
 
 💻 Passionate about **Software Development**, always learning and growing in this exciting, ever-evolving field.
 
-🌍 Based in <img src="https://img.icons8.com/fluency/48/greece-circular.png" width="18"/> **Athens, Greece**
+Based in **Greece**
 
 ---
 
