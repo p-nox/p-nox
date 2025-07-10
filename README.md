@@ -3,9 +3,12 @@
 
 <img src="https://github.com/user-attachments/assets/efaa24f5-3e88-49a0-9410-5636f40a9157" width="90"/>
 
+
+
 💻 Passionate about **Software Development**, always learning and growing in this exciting, ever-evolving field.
 
 Based in **Greece**
+
 
 ---
 
