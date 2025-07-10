@@ -63,6 +63,7 @@ I have a passion for coding and software development. I enjoy solving problems w
 </table>
 
 <br>
+
 ---
 
 ## 📂 My Projects
