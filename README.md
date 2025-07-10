@@ -9,7 +9,7 @@ I have a passion for coding and software development. I enjoy solving problems w
 
 ---
 
-## 🚀 My Tech Stack
+## My Tech Stack
 
 <table>
   <thead align="center">
