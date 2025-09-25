@@ -59,11 +59,4 @@ I am a software developer, who enjoys solving problems with code. I mainly engin
 
 ---
 
-## 📂 My Projects
-
-> Work in progress! Stay tuned for cool things.  
-> In the meantime, feel free to explore my pinned repositories!
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nox&hide=javascript,css,scss,html&theme=tokyonight)
 
