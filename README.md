@@ -1,7 +1,7 @@
 # Panagiotis Skop
-**`Computer Engineer / Software Developer`**
+**`Software Developer`**
 
-I am a software developer, who enjoys solving problems with code. I mainly engineer full stack solutions. My go to language is Java. For the web I tend to use Spring framework and React.
+I am a software developer, who enjoys solving problems with code. I mainly engineer full stack solutions.
 <br>
 
 ---
