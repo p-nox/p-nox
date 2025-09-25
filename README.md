@@ -1,7 +1,7 @@
 # Panagiotis Skop
 **`Software Developer`**
 
-I am a software developer, who enjoys solving problems with code. I mainly engineer full stack solutions.
+I am a software developer who enjoys sitting in my chair solving problems and bugs created by my code. I mainly engineer full stack solutions.
 <br>
 
 ---
